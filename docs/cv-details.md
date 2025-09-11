@@ -1,0 +1,79 @@
+# CV Details
+
+## Contact
+- Name: Saw Simeon  
+- Mobile: (+46) 709752169  
+- Email: saw.simeon.brown@gmail.com  
+- GitHub: https://github.com/sawsimeon
+
+---
+
+## Professional Summary
+
+I specialize in computational methods and informatics with expertise in molecular descriptors, fingerprints, and ML models for predicting molecular and biological properties. I combine descriptor engineering, model explainability, and HPC workflows to accelerate virtual screening and structure-based drug discovery. I have experience delivering R Shiny front-ends to enable interactive analysis and decision-making.
+
+---
+
+## Skills
+
+- Programming: Python (Keras / TensorFlow, scikit-learn, pandas, NumPy), R (tidyverse, Shiny), SQL, Git  
+- Cheminformatics & Bioinformatics: molecular descriptors, fingerprints, QSAR, docking, scoring functions  
+- Machine learning: classification/regression, feature engineering, attribution methods, model validation, hyperparameter tuning  
+- High performance computing: cluster workflows, parallelization for deep docking and rescoring  
+- Web / tools: R Shiny, data visualization, interactive dashboards  
+- Reproducibility: best practices for computational workflows, packaging and documentation
+
+---
+
+## Education
+
+- Doctor of Philosophy (Bioscience) — Kasetsart University (2016–2019)  
+  Thesis work on kinase inhibition, cytotoxicity, and volume of distribution; developed ML models using molecular descriptors and molecular simulation techniques.
+
+- Master of Science (Medical Technology) — Mahidol University (2013–2015)  
+  Thesis on spectral and oligomerization properties of fluorescent proteins; experience in molecular biology, biochemistry and biophysics.
+
+- Bachelor of Science (Biology, minor in Chemistry) — Mahidol University (2008–2012)  
+  Experimental work on tribromophenol reds and practical organic chemistry techniques.
+
+---
+
+## Experience
+
+### Postdoctoral Researcher — Biomedicinskt centrum (BMC) (Nov 2022 – Oct 2024)
+- Developed novel molecular descriptors and applied dimensionality reduction to improve ML efficiency.  
+- Built ML models for predicting cell permeability; used post-hoc attribution to explain model predictions.  
+- Validated models using cross-validation and external test sets, and performed hyperparameter tuning.
+
+### Postdoctoral Researcher — Marseille Cancer Research Center (Dec 2020 – Oct 2022)
+- Derived datasets and features for building a scoring function for protein–ligand interactions.  
+- Used HPC for deep docking and rescoring ultra-large libraries.  
+- Built an R Shiny front-end integrated with ML algorithms for molecule discovery.
+
+### Data Scientist — Absolute Clean Energy Public Co., Ltd (Nov 2019 – May 2020)
+- Selected and evaluated microalgae strains for biomass and biogas production.  
+- Performed literature reviews and compiled technical reports; authored articles on sustainable energy strategies.
+
+### Research Initiatives Officer — Faculty of Science (Aug 2018 – Jul 2019)
+- Managed translational research projects, presales activities and regulatory registrations.  
+- Coordinated with stakeholders to commercialize research outputs.
+
+### Good Laboratory Practice Officer — Department of Medical Science, Ministry of Public Health (Sep 2017 – Jun 2018)
+- Built interactive dashboards for monitoring lab KPIs and supported international GLP collaborations and inspections.
+
+### Research Assistant — Mahidol University (Aug 2015 – Jul 2016)
+- Developed predictive models and Shiny applications; contributed to online tools for protein sequence analysis.
+
+---
+
+## Languages
+
+- English — IELTS 7 (professional)  
+- Burmese — Native  
+- Thai — Professional  
+- Swedish — Beginner
+
+---
+
+## Technical Keywords (for search / SEO)
+computational biology, cheminformatics, molecular descriptors, fingerprints, QSAR, machine learning, deep learning, Keras, TensorFlow, R Shiny, HPC, docking, scoring functions, bioinformatics, model explainability, virtual screening

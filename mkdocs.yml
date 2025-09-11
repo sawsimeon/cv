@@ -1,0 +1,42 @@
+site_name: "Saw Simeon — CV"
+site_description: "Computational biologist — computational methods, machine learning, and bioinformatics"
+site_author: "Saw Simeon"
+site_url: "https://sawsimeon.github.io/cv"
+repo_name: "sawsimeon/cv"
+repo_url: "https://github.com/sawsimeon/cv"
+
+nav:
+  - Home: index.md
+  - CV Details: cv-details.md
+  - Publications: publications.md
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: "blue"
+    accent: "indigo"
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
+    - content.code.annotate
+    - toc.integrate
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sawsimeon/cv
+  author: "Saw Simeon"
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
