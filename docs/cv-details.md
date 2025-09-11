@@ -2,8 +2,8 @@
 
 ## Contact
 - Name: Saw Simeon  
-- Mobile: (+46) 709752169  
-- Email: saw.simeon.brown@gmail.com  
+- Mobile:   
+- Email:   
 - GitHub: https://github.com/sawsimeon
 
 ---
