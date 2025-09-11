@@ -2,8 +2,8 @@
 
 **Computational biologist — computational methods, machine learning, and bioinformatics**
 
-Mobile: (+46) 709752169  
-Email: saw.simeon.brown@gmail.com  
+Mobile:   
+Email:   
 GitHub: https://github.com/sawsimeon
 
 ---
@@ -38,5 +38,3 @@ Highlights
 - High Performance Computing (cluster jobs, parallel workflows)
 
 ---
-
-If you'd like a printable PDF or a tailored one-page resume, see the CV Details page for more information and contact details.
