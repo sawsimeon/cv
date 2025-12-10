@@ -1,9 +1,9 @@
 # Saw Simeon
 
-**Computational biologist — computational methods, machine learning, and bioinformatics**
+**Quantiative developer — computational methods, machine learning, AI enthusiast, Full-stack builder and bioinformatics**
 
 Mobile:   
-Email:   
+Email:  sawsimeon@hotmail.com
 GitHub: https://github.com/sawsimeon
 
 ---
