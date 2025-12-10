@@ -3,14 +3,16 @@
 ## Contact
 - Name: Saw Simeon  
 - Mobile:   
-- Email:   
+- Email:  sawsimeon@hotmail.com
 - GitHub: https://github.com/sawsimeon
 
 ---
 
 ## Professional Summary
 
-I specialize in computational methods and informatics with expertise in molecular descriptors, fingerprints, and ML models for predicting molecular and biological properties. I combine descriptor engineering, model explainability, and HPC workflows to accelerate virtual screening and structure-based drug discovery. I have experience delivering R Shiny front-ends to enable interactive analysis and decision-making.
+specialize in computational methods and informatics with a strong focus on molecular descriptors and fingerprints for representing chemical compounds as numerical vectors. My work combines machine learning, model explainability, and high-performance computing (HPC) to accelerate virtual screening and structure-based drug discovery. I design descriptor engineering pipelines and attribution methods that make predictive models interpretable and actionable in drug discovery workflows.
+
+In addition to cheminformatics, I actively contribute to the Web3 and financial technology ecosystem by developing R packages for blockchain, forex trading, and cryptocurrency analytics. These packages provide interfaces to decentralized APIs, enable reproducible trading strategies, and integrate financial data streams into R’s analytical environment. My work bridges scientific computing with decentralized finance, empowering researchers and traders with transparent, reproducible, and scalable tools.
 
 ---
 
