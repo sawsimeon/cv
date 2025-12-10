@@ -25,6 +25,7 @@ Highlights
 
 - [CV Details — skills, education, experience](cv-details.md)
 - [Publications — full publication list](publications.md)
+- [Web3 Portfolio — projects, docs, and packages](web3.md)
 
 ---
 

@@ -66,6 +66,22 @@ I specialize in computational methods and informatics with expertise in molecula
 
 ---
 
+## Selected Open-source Projects & Software
+
+- igfetchr — R package to fetch data from Instagram (CRAN): https://cran.r-project.org/web/packages/igfetchr/index.html
+  - Published on CRAN; includes data-fetching utilities and documentation for interacting with Instagram data in R.
+
+- nearjsonrpc — NEAR Protocol JSON-RPC API documentation and examples: https://sawsimeon.github.io/nearjsonrpc/
+  - Documentation and example requests for interacting with the NEAR blockchain via its JSON-RPC interface.
+
+- qsar — Rust crate for QSAR tools and molecular descriptors: https://docs.rs/qsar/0.0.2/qsar/index.html
+  - Rust library providing functionality related to quantitative structure–activity relationships and descriptor calculations.
+
+- cowr — R package (in development) to interact with Cow Protocol: https://github.com/sawsimeon/cowr
+  - Ongoing work to provide R bindings and helpers for interacting with the Cow Protocol ecosystem.
+
+---
+
 ## Languages
 
 - English — IELTS 7 (professional)  
