@@ -68,5 +68,4 @@ Highlights
 
 - Cross-domain expertise: bridging cheminformatics, decentralized finance, and blockchain analytics with reproducible scientific and trading workflows.
 
-- Technical stack: Python (Keras/TensorFlow), R (Shiny, package dev), Rust (QSAR crates), Git, SQL, and cloud/HPC environments.
 ---

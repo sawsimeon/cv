@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-specialize in computational methods and informatics with a strong focus on molecular descriptors and fingerprints for representing chemical compounds as numerical vectors. My work combines machine learning, model explainability, and high-performance computing (HPC) to accelerate virtual screening and structure-based drug discovery. I design descriptor engineering pipelines and attribution methods that make predictive models interpretable and actionable in drug discovery workflows.
+I specialize in computational methods and informatics with a strong focus on molecular descriptors and fingerprints for representing chemical compounds as numerical vectors. My work combines machine learning, model explainability, and high-performance computing (HPC) to accelerate virtual screening and structure-based drug discovery. I design descriptor engineering pipelines and attribution methods that make predictive models interpretable and actionable in drug discovery workflows.
 
 In addition to cheminformatics, I actively contribute to the Web3 and financial technology ecosystem by developing R packages for blockchain, forex trading, and cryptocurrency analytics. These packages provide interfaces to decentralized APIs, enable reproducible trading strategies, and integrate financial data streams into R’s analytical environment. My work bridges scientific computing with decentralized finance, empowering researchers and traders with transparent, reproducible, and scalable tools.
 
@@ -18,12 +18,21 @@ In addition to cheminformatics, I actively contribute to the Web3 and financial 
 
 ## Skills
 
-- Programming: Python (Keras / TensorFlow, scikit-learn, pandas, NumPy), R (tidyverse, Shiny), SQL, Git  
-- Cheminformatics & Bioinformatics: molecular descriptors, fingerprints, QSAR, docking, scoring functions  
-- Machine learning: classification/regression, feature engineering, attribution methods, model validation, hyperparameter tuning  
-- High performance computing: cluster workflows, parallelization for deep docking and rescoring  
-- Web / tools: R Shiny, data visualization, interactive dashboards  
-- Reproducibility: best practices for computational workflows, packaging and documentation
+- Programming: Python (Keras/TensorFlow, scikit-learn, pandas, NumPy), R (tidyverse, Shiny, package development), Rust (QSAR crates), SQL, Git
+
+- Cheminformatics & Bioinformatics: molecular descriptors, fingerprints, QSAR modeling, docking, scoring functions, bioinformatics pipelines
+
+- Machine Learning: classification/regression, deep learning, feature engineering, attribution methods (SHAP, LIME), model validation, hyperparameter tuning
+
+- High Performance Computing (HPC): cluster workflows, parallelization for deep docking and rescoring, large-scale virtual screening
+
+- Web / Tools: R Shiny, interactive dashboards, data visualization, front-end interfaces for scientific and financial analytics
+
+- Reproducibility: best practices for computational workflows, packaging, documentation, and reproducible research pipelines
+
+- Blockchain & Financial Analytics: R package development for forex trading (igfetchr), cryptocurrency analytics, and blockchain/Web3 integration (nearjsonrpc)
+
+- Cross-domain Integration: bridging cheminformatics, decentralized finance, and blockchain analytics with reproducible scientific and trading workflows
 
 ---
 
