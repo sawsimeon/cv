@@ -79,17 +79,13 @@ In addition to cheminformatics, I actively contribute to the Web3 and financial 
 
 ## Selected Open-source Projects & Software
 
-- [igfetchr](https://cran.r-project.org/web/packages/igfetchr/index.html) — R package to fetch data from IG Markets (CRAN)
-  - Published on CRAN; includes data-fetching utilities and documentation for interacting with IG Markets data and placing trades in R.
+- [igfetchr](https://cran.r-project.org/web/packages/igfetchr/index.html) — R package to fetch data from IG Markets (CRAN).Published on CRAN, includes data-fetching utilities and documentation for interacting with IG Markets data and placing trades in R.
 
-- [nearjsonrpc](https://sawsimeon.github.io/nearjsonrpc/) — NEAR Protocol JSON-RPC API documentation and examples.
-  - Documentation and example requests for interacting with the NEAR blockchain via its JSON-RPC interface.
+- [nearjsonrpc](https://sawsimeon.github.io/nearjsonrpc/) — NEAR Protocol JSON-RPC API documentation and examples. Documentation and example requests for interacting with the NEAR blockchain via its JSON-RPC interface.
 
-- [qsar](https://docs.rs/qsar/0.0.2/qsar/index.html) — Rust crate for QSAR tools and molecular descriptors.
-  - Rust library providing functionality related to quantitative structure–activity relationships and descriptor calculations.
+- [qsar](https://docs.rs/qsar/0.0.2/qsar/index.html) — Rust crate for QSAR tools and molecular descriptors. Rust library providing functionality related to quantitative structure–activity relationships and descriptor calculations.
 
-- [cowr](https://github.com/sawsimeon/cowr) — R package (in development) to interact with Cow Protocol.
-  - Ongoing work to provide R bindings and helpers for interacting with the Cow Protocol ecosystem.
+- [cowr](https://github.com/sawsimeon/cowr) — R package (in development) to interact with Cow Protocol. Ongoing work to provide R bindings and helpers for interacting with the Cow Protocol ecosystem.
 
 ---
 
