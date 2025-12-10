@@ -79,16 +79,16 @@ In addition to cheminformatics, I actively contribute to the Web3 and financial 
 
 ## Selected Open-source Projects & Software
 
-- igfetchr — R package to fetch data from Instagram (CRAN): https://cran.r-project.org/web/packages/igfetchr/index.html
-  - Published on CRAN; includes data-fetching utilities and documentation for interacting with Instagram data in R.
+- (igfetchr)[https://cran.r-project.org/web/packages/igfetchr/index.html] — R package to fetch data from Instagram (CRAN)
+  - Published on CRAN; includes data-fetching utilities and documentation for interacting with IG Markets data in R.
 
-- nearjsonrpc — NEAR Protocol JSON-RPC API documentation and examples: https://sawsimeon.github.io/nearjsonrpc/
+- (nearjsonrpc)[https://sawsimeon.github.io/nearjsonrpc/] — NEAR Protocol JSON-RPC API documentation and examples.
   - Documentation and example requests for interacting with the NEAR blockchain via its JSON-RPC interface.
 
-- qsar — Rust crate for QSAR tools and molecular descriptors: https://docs.rs/qsar/0.0.2/qsar/index.html
+- (qsar)[https://docs.rs/qsar/0.0.2/qsar/index.html] — Rust crate for QSAR tools and molecular descriptors.
   - Rust library providing functionality related to quantitative structure–activity relationships and descriptor calculations.
 
-- cowr — R package (in development) to interact with Cow Protocol: https://github.com/sawsimeon/cowr
+- (cowr)[https://github.com/sawsimeon/cowr] — R package (in development) to interact with Cow Protocol.
   - Ongoing work to provide R bindings and helpers for interacting with the Cow Protocol ecosystem.
 
 ---
@@ -103,4 +103,4 @@ In addition to cheminformatics, I actively contribute to the Web3 and financial 
 ---
 
 ## Technical Keywords (for search / SEO)
-computational biology, cheminformatics, molecular descriptors, fingerprints, QSAR, machine learning, deep learning, Keras, TensorFlow, R Shiny, HPC, docking, scoring functions, bioinformatics, model explainability, virtual screening
+computational biology, cheminformatics, molecular descriptors, fingerprints, QSAR, machine learning, deep learning, Keras, TensorFlow, R Shiny, HPC, docking, scoring functions, bioinformatics, model explainability, virtual screening, R package, NEAR Protocol, Cow Protocol, Rust, Web3, blockchain, financial analytics, forex, CFD trading.
