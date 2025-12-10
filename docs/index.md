@@ -4,6 +4,7 @@
 
 Mobile:   
 Email:  sawsimeon@hotmail.com
+LinkedIn: https://www.linkedin.com/in/sawsimeon/
 GitHub: https://github.com/sawsimeon
 
 ---
